@@ -1,6 +1,6 @@
 <p>Email: {{email}}</p>
 <p>Title: {{title}}</p>
-<p>Updated at: {{updatedAt}}</p>
-<p>Created at: {{createdAt}}</p>
+<p>Updated at: {{formatted-date updatedAt 'MMMM Do, YYYY [at] h:mm a'}}</p>
+<p>Created at: {{formatted-date createdAt 'MMMM Do, YYYY [at] h:mm a'}}</p>
 
 {{outlet}}

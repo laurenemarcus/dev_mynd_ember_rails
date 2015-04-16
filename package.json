@@ -1,0 +1,19 @@
+{
+  "name": "dev_mynd_ember_rails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laurenemarcus/dev_mynd_ember_rails.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurenemarcus/dev_mynd_ember_rails/issues"
+  },
+  "homepage": "https://github.com/laurenemarcus/dev_mynd_ember_rails"
+}
